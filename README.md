@@ -1,4 +1,4 @@
-# Construction-and-Economics-Management-Institute-CEMI-# CEMI – Construction and Economics Management Institute
+# Construction-and-Economics-Management-Institute-CEMI
 
 **A Digital Institutional Platform | Website, CMS & Learning Management System**
 
